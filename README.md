@@ -109,3 +109,101 @@ Minha trajetória está sendo construída através de:
                     ┌─────────┐
                     │ EVOLUIR │
                     └─────────┘
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║                 ◈ SYSTEM PROFILE ◈                         ║
+║                                                            ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  USER          :: Eduardo Eugenio Pimenta                  ║
+║  AGE           :: 19                                       ║
+║                                                            ║
+║  ROLE          :: Desenvolvedor Júnior                     ║
+║  SPECIALTY     :: Desenvolvimento Web                      ║
+║                                                            ║
+║  EDUCATION     :: Sistemas de Informação                   ║
+║  UNIVERSITY    :: Uni-FACEF                                ║
+║  SEMESTER      :: 04                                       ║
+║                                                            ║
+║  EXPERIENCE    :: Desenvolvimento de sites                 ║
+║                   para empresas                            ║
+║                                                            ║
+║  STATUS        :: ● ONLINE                                 ║
+║                                                            ║
+║  MISSION       :: APRENDER • CONSTRUIR • EVOLUIR           ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+🎓 EDUCAÇÃO	💻 PROFISSÃO	🚀 OBJETIVO
+Sistemas de Informação	Desenvolvedor Júnior	Evoluir
+Uni-FACEF	Web Development	Aprender
+4º semestre	Sites para empresas	Construir
+◈ LANGUAGES ◈
+<br> <img src="https://skillicons.dev/icons?i=javascript,python&theme=dark" alt="JavaScript and Python">
+<br><br>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-07111F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/PYTHON-07111F?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+<br><br>
+
+◈ WEB ◈
+<br> <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS">
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-07111F?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-07111F?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
+<br><br>
+
+◈ TOOLS ◈
+<br> <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub"> </div>
+05 // DEVELOPMENT
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:003B70,50:007BFF,75:00A8FF,100:00D9FF&height=110&section=header&text=WEB%20DEVELOPMENT&fontSize=32&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Web Development" />
+
+<br><br>
+
+              ┌─────────────────┐
+              │      IDEIA      │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │     DESIGN      │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │      CODE       │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │      TEST       │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │     DEPLOY      │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │  DIGITAL RESULT │
+              └─────────────────┘
+
+</div>
+🌐 O que faço
+Trabalho com desenvolvimento de sites para empresas, buscando transformar necessidades em experiências digitais.
+
+Meu trabalho envolve:
+
+Estruturação de páginas
+Desenvolvimento de interfaces
+HTML
+CSS
+JavaScript
+Responsividade
+Organização visual
+Desenvolvimento de sites para empresas
+Meu objetivo é criar projetos que encontrem equilíbrio entre:
+
+DESIGN ✦ FUNCTIONALITY ✦ EXPERIENCE
+
+
