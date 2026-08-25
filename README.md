@@ -3,24 +3,27 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=EDUARDO+EUGENIO+PIMENTA;DESENVOLVEDOR+J%C3%9ANIOR;SISTEMAS+DE+INFORMA%C3%87%C3%83O;WEB+DEVELOPER;TRANSFORMANDO+IDEIAS+EM+C%C3%93DIGO"
-  alt="Eduardo Eugenio Pimenta"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=27&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=EDUARDO+EUGENIO+PIMENTA;DESENVOLVEDOR+J%C3%9ANIOR;WEB+DEVELOPER;SISTEMAS+DE+INFORMA%C3%87%C3%83O;BUILDING+IDEAS+INTO+CODE"
+alt="Eduardo Eugenio Pimenta"
 />
 
 <br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:071A2F,55:003B70,80:007BFF,100:00D9FF&height=190&section=header&text=DESENVOLVEDOR%20J%C3%9ANIOR&fontSize=34&fontColor=E6F7FF&animation=fadeIn&fontAlignY=35"
-  width="100%"
-  alt="Desenvolvedor Junior"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:071A2F,45:003B70,70:007BFF,100:00D9FF&height=200&section=header&text=DESENVOLVEDOR%20J%C3%9ANIOR&fontSize=34&fontColor=E6F7FF&animation=fadeIn&fontAlignY=35"
+width="100%"
+alt="Desenvolvedor Junior"
 />
 
 <br>
 
-<img src="https://img.shields.io/badge/●_ONLINE-00D084?style=for-the-badge&labelColor=020617" alt="Online">
-<img src="https://img.shields.io/badge/JUNIOR_DEVELOPER-00A8FF?style=for-the-badge&labelColor=020617" alt="Junior Developer">
-<img src="https://img.shields.io/badge/4º_SEMESTRE-007BFF?style=for-the-badge&labelColor=020617" alt="Quarto semestre">
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-7C3AED?style=for-the-badge&labelColor=020617" alt="Web Development">
+<img src="https://img.shields.io/badge/●_ONLINE-020617?style=for-the-badge&labelColor=020617&color=00D084" alt="Online">
+
+<img src="https://img.shields.io/badge/JUNIOR_DEVELOPER-020617?style=for-the-badge&labelColor=020617&color=00A8FF" alt="Junior Developer">
+
+<img src="https://img.shields.io/badge/4º_SEMESTRE-020617?style=for-the-badge&labelColor=020617&color=007BFF" alt="Fourth Semester">
+
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-020617?style=for-the-badge&labelColor=020617&color=7C3AED" alt="Web Development">
 
 <br><br>
 
@@ -39,14 +42,14 @@
 <br><br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,25:007BFF,50:7C3AED,75:007BFF,100:00D9FF&height=4&section=header"
-  width="85%"
-  alt="Colorful separator"
+src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,25:007BFF,50:7C3AED,75:007BFF,100:00D9FF&height=4&section=header"
+width="85%"
+alt="Neon separator"
 />
 
 <br>
 
-`01000101` &nbsp; `01000100` &nbsp; `01010101` &nbsp; `01000001` &nbsp; `01010010` &nbsp; `01000100` &nbsp; `01001111`
+`JS` &nbsp;&nbsp; `HTML` &nbsp;&nbsp; `CSS` &nbsp;&nbsp; `PY` &nbsp;&nbsp; `GIT` &nbsp;&nbsp; `WEB`
 
 <br><br>
 
@@ -60,7 +63,7 @@
 
 <div align="center">
 
-## `╭─────── ✦ WELCOME TO MY PROFILE ✦ ───────╮`
+# `╭─────── ✦ WELCOME TO MY PROFILE ✦ ───────╮`
 
 </div>
 
@@ -70,140 +73,45 @@
 
 ### 👨‍💻 Eduardo Eugenio Pimenta
 
-`19 anos` &nbsp;•&nbsp; `Desenvolvedor Júnior` &nbsp;•&nbsp; `Estudante de Sistemas de Informação`
+`19 anos` • `Desenvolvedor Júnior` • `Web Developer`
 
 <br>
 
-<img src="https://img.shields.io/badge/UNI--FACEF-07111F?style=for-the-badge&logo=academia&logoColor=00D9FF" alt="Uni-FACEF">
-<img src="https://img.shields.io/badge/4º_SEMESTRE-07111F?style=for-the-badge&logo=bookstack&logoColor=00A8FF" alt="Quarto semestre">
+<img src="https://img.shields.io/badge/SISTEMAS_DE_INFORMAÇÃO-07111F?style=for-the-badge&logo=academia&logoColor=00D9FF" alt="Sistemas de Informação">
+
+<img src="https://img.shields.io/badge/UNI--FACEF-07111F?style=for-the-badge&logo=bookstack&logoColor=00A8FF" alt="Uni-FACEF">
+
+<img src="https://img.shields.io/badge/4º_SEMESTRE-07111F?style=for-the-badge&logoColor=00D9FF" alt="Quarto semestre">
 
 </div>
 
 <br>
 
-Olá! Eu sou **Eduardo Eugenio Pimenta**, tenho 19 anos e atualmente curso o **Bacharelado em Sistemas de Informação no Uni-FACEF**, estando no **4º semestre**.
+Olá! Eu sou **Eduardo Eugenio Pimenta**, tenho 19 anos e sou estudante do **Bacharelado em Sistemas de Informação no Uni-FACEF**, atualmente no **4º semestre**.
 
-Também trabalho com **desenvolvimento de sites para empresas**, utilizando aquilo que aprendo durante minha formação para transformar ideias em soluções digitais.
+Também trabalho com **desenvolvimento de sites para empresas**, buscando transformar ideias e necessidades em experiências digitais modernas, funcionais e bem estruturadas.
 
-Minha trajetória está sendo construída através de:
+Minha trajetória na tecnologia está sendo construída através de:
 
 ```text
-                    ✦ APRENDER ✦
-                         │
-                         ▼
-                    ┌─────────┐
-                    │ ESTUDAR │
-                    └────┬────┘
-                         │
-                         ▼
-                    ┌─────────┐
-                    │ PRATICAR│
-                    └────┬────┘
-                         │
-                         ▼
-                    ┌─────────┐
-                    │  CRIAR  │
-                    └────┬────┘
-                         │
-                         ▼
-                    ┌─────────┐
-                    │ EVOLUIR │
-                    └─────────┘
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                 ◈ SYSTEM PROFILE ◈                         ║
-║                                                            ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  USER          :: Eduardo Eugenio Pimenta                  ║
-║  AGE           :: 19                                       ║
-║                                                            ║
-║  ROLE          :: Desenvolvedor Júnior                     ║
-║  SPECIALTY     :: Desenvolvimento Web                      ║
-║                                                            ║
-║  EDUCATION     :: Sistemas de Informação                   ║
-║  UNIVERSITY    :: Uni-FACEF                                ║
-║  SEMESTER      :: 04                                       ║
-║                                                            ║
-║  EXPERIENCE    :: Desenvolvimento de sites                 ║
-║                   para empresas                            ║
-║                                                            ║
-║  STATUS        :: ● ONLINE                                 ║
-║                                                            ║
-║  MISSION       :: APRENDER • CONSTRUIR • EVOLUIR           ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-🎓 EDUCAÇÃO	💻 PROFISSÃO	🚀 OBJETIVO
-Sistemas de Informação	Desenvolvedor Júnior	Evoluir
-Uni-FACEF	Web Development	Aprender
-4º semestre	Sites para empresas	Construir
-◈ LANGUAGES ◈
-<br> <img src="https://skillicons.dev/icons?i=javascript,python&theme=dark" alt="JavaScript and Python">
-<br><br>
-
-<img src="https://img.shields.io/badge/JAVASCRIPT-07111F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/PYTHON-07111F?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-<br><br>
-
-◈ WEB ◈
-<br> <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS">
-<br><br>
-
-<img src="https://img.shields.io/badge/HTML5-07111F?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-07111F?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
-<br><br>
-
-◈ TOOLS ◈
-<br> <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git and GitHub"> </div>
-05 // DEVELOPMENT
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:003B70,50:007BFF,75:00A8FF,100:00D9FF&height=110&section=header&text=WEB%20DEVELOPMENT&fontSize=32&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Web Development" />
-
-<br><br>
-
-              ┌─────────────────┐
-              │      IDEIA      │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │     DESIGN      │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │      CODE       │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │      TEST       │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │     DEPLOY      │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │  DIGITAL RESULT │
-              └─────────────────┘
-
-</div>
-🌐 O que faço
-Trabalho com desenvolvimento de sites para empresas, buscando transformar necessidades em experiências digitais.
-
-Meu trabalho envolve:
-
-Estruturação de páginas
-Desenvolvimento de interfaces
-HTML
-CSS
-JavaScript
-Responsividade
-Organização visual
-Desenvolvimento de sites para empresas
-Meu objetivo é criar projetos que encontrem equilíbrio entre:
-
-DESIGN ✦ FUNCTIONALITY ✦ EXPERIENCE
-
-
+                         ✦ APRENDER ✦
+                              │
+                              ▼
+                         ┌─────────┐
+                         │ ESTUDAR │
+                         └────┬────┘
+                              │
+                              ▼
+                         ┌─────────┐
+                         │ PRATICAR│
+                         └────┬────┘
+                              │
+                              ▼
+                         ┌─────────┐
+                         │  CRIAR  │
+                         └────┬────┘
+                              │
+                              ▼
+                         ┌─────────┐
+                         │ EVOLUIR │
+                         └─────────┘
