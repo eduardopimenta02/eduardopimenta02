@@ -1,66 +1,82 @@
 <div align="center">
 
-<img src="./assets/coding.gif" width="170" alt="Pixel art de programação">
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=EDUARDO+EUGENIO+PIMENTA;WEB+DEVELOPER;SISTEMAS+DE+INFORMA%C3%87%C3%83O;BUILDING+IDEAS+INTO+CODE"
+  alt="Eduardo Eugenio Pimenta"
+/>
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:071A2F,100:00A8FF&height=180&section=header&text=DEVELOPER%20MODE&fontSize=32&fontColor=E6F7FF&animation=fadeIn&fontAlignY=35"
+  alt="Developer banner"
+/>
+
+<br>
+
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-00D084?style=for-the-badge&labelColor=020617)](https://github.com/)
+[![Student](https://img.shields.io/badge/4%C2%BA%20SEMESTRE-SISTEMAS%20DE%20INFORMA%C3%87%C3%83O-00A8FF?style=for-the-badge&labelColor=020617)](https://www.unifacef.com.br/)
+[![Web Developer](https://img.shields.io/badge/WEB-DEVELOPER-00D9FF?style=for-the-badge&labelColor=020617)](https://github.com/)
+
+<br>
+
+<a href="https://www.linkedin.com/in/eduardo-eug%C3%AAnio-pimenta-947036350/">
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00A8FF">
+</a>
+
+<a href="mailto:pimenta.eduardoeugenio@ggmail.com">
+<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=00D9FF">
+</a>
+
+<a href="https://wa.me/5516999843992">
+<img src="https://img.shields.io/badge/WHATSAPP-020617?style=for-the-badge&logo=whatsapp&logoColor=00D084">
+</a>
 
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=00A8FF&center=true&vCenter=true&width=750&lines=EDUARDO+EUGENIO+PIMENTA;WEB+DEVELOPER;INFORMATION+SYSTEMS+STUDENT;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME"
-alt="Typing animation"
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8FF,50:007BFF,100:00D9FF&height=3&section=header"
+  width="80%"
+  alt="Blue separator"
 />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/●_ONLINE-07111F?style=for-the-badge&labelColor=07111F&color=00D084" alt="Online">
-
-<img src="https://img.shields.io/badge/4TH_SEMESTER-07111F?style=for-the-badge&labelColor=07111F&color=1683FF" alt="Fourth semester">
-
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-07111F?style=for-the-badge&labelColor=07111F&color=7C3AED" alt="Web development">
-
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=1683FF)](SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-030712?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:SEU_EMAIL)
-
-<br><br>
-
-`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
 
 <br>
 
-`SYSTEM INITIALIZED` &nbsp; `//` &nbsp; `WELCOME TO MY PROFILE`
+`01000101 01000100 01010101 01000001 01010010 01000100 01001111`
+
+<br>
+
+<sub>Turning curiosity into code.</sub>
 
 </div>
 
 ---
 
-# `> whoami`
+# `01 // WHO AM I`
 
 <div align="center">
 
 ### 👨‍💻 Eduardo Eugenio Pimenta
 
-`19 years old` &nbsp;•&nbsp; `Sistemas de Informação` &nbsp;•&nbsp; `Uni-FACEF`
+**19 anos** · **Estudante de Sistemas de Informação** · **Desenvolvedor Web**
 
 </div>
 
-Olá! Eu sou **Eduardo Eugenio Pimenta**, tenho 19 anos e atualmente estou no **4º semestre do Bacharelado em Sistemas de Informação no Uni-FACEF**.
+Olá! Eu sou **Eduardo Eugenio Pimenta**, tenho 19 anos e atualmente curso o **Bacharelado em Sistemas de Informação no Uni-FACEF**, estando no **4º semestre** da graduação.
 
-Minha trajetória na tecnologia está sendo construída através de **estudo, trabalho e prática**.
+Também trabalho com **desenvolvimento de sites para empresas**, colocando em prática aquilo que aprendo durante minha formação.
 
-Além da graduação, trabalho com **desenvolvimento de sites para empresas**, buscando transformar ideias e necessidades em experiências digitais funcionais, modernas e visualmente agradáveis.
-
-Gosto de aprender fazendo.
-
-Quando encontro algo que ainda não sei, gosto de pesquisar, testar, errar, corrigir e tentar novamente.
-
-É justamente esse processo que faz a programação ser tão interessante para mim.
+Minha jornada na tecnologia é construída através de três coisas:
 
 ```text
-┌────────────────────────────────────────────────────────┐
-│                                                        │
-│  "I DON'T NEED TO KNOW EVERYTHING.                     │
-│   I JUST NEED TO KEEP LEARNING."                       │
-│                                                        │
-└────────────────────────────────────────────────────────┘
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│        🎓  ESTUDAR                                 │
+│                                                    │
+│        💻  CONSTRUIR                               │
+│                                                    │
+│        🚀  EVOLUIR                                 │
+│                                                    │
+╰────────────────────────────────────────────────────╯
